@@ -3,8 +3,6 @@
 Welcome to my personal portfolio website!  
 This site is designed to showcase my background, projects, experiences, and accomplishments in a clean, interactive, and animated format using **HTML**, **CSS**, and **JavaScript**.
 
-![Screenshot](preview.png) <!-- Add a screenshot if you'd like -->
-
 ---
 
 ## 📸 Preview
